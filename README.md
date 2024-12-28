@@ -8,5 +8,7 @@ Not an active developer
 ![user-lezi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=user-lezi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ### Links:
+- **Bio Link**
+  - https://has.cash/lezi
 - **NPM**
   - https://npmjs.com/~lezii
