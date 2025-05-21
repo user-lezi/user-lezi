@@ -41,4 +41,4 @@ Occasionally writes TypeScript, mostly just stares at it.
 - 🐙 **GitHub** → [![GitHub](https://img.shields.io/badge/-user--lezi-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/user-lezi)  
 - 📦 **NPM** → [![NPM](https://img.shields.io/badge/-lezii-CB3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/~lezii)  
 - 🛸 **Reddit** → [![Reddit](https://img.shields.io/badge/-u/Intrepid__Intern__2175-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/Intrepid_Intern_2175)  
-- 💬 **Discord** → [![Discord](https://img.shields.io/badge/-leziuwu-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/910837428862984213)  
+- 💬 **Discord** → [![Discord](https://img.shields.io/badge/-butwhylezi-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/910837428862984213)  
