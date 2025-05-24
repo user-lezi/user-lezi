@@ -13,18 +13,26 @@ Occasionally writes TypeScript, mostly just stares at it.
 <a href="https://github.com/user-lezi/bible">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=user-lezi&repo=bible&theme=vue-dark&hide_border=true" />
 </a>
+<br>
+<a href="https://github.com/user-lezi/ForgeIndia">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=user-lezi&repo=ForgeIndia&theme=vue-dark&hide_border=true" />
+</a>  
+<br>
 <a href="https://github.com/user-lezi/leziscript-esolang">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=user-lezi&repo=leziscript-esolang&theme=vue-dark&hide_border=true" />
 </a>  
+
 
 ## 📊 Stats  
 
 <a href="https://github.com/user-lezi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=user-lezi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
 </a>
+<br>
 <a href="https://github.com/user-lezi">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=user-lezi&theme=vue-dark&hide_border=true" />
 </a>
+<br>
 <a href="https://github.com/user-lezi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=user-lezi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
 </a>  
