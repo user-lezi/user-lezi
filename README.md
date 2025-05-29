@@ -10,10 +10,6 @@ Occasionally writes TypeScript, mostly just stares at it.
 
 ## 📌 Featured Repos  
 
-<a href="https://github.com/user-lezi/bible">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=user-lezi&repo=bible&theme=vue-dark&hide_border=true" />
-</a>
-<br>
 <a href="https://github.com/user-lezi/ForgeIndia">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=user-lezi&repo=ForgeIndia&theme=vue-dark&hide_border=true" />
 </a>  
